@@ -4,4 +4,4 @@ This link is [page 1](/)
 
 This is a link to [Page 2](/about)
 
-<b>example.com/</b>info
+<b>.com/</b>Info
