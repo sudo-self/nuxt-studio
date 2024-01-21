@@ -1,4 +1,3 @@
-This is Page 1  (index.md)
-
+# This is Page 1 
 ---
-[Page 2](/about)
+This is a link to [Page 2](/about)
