@@ -2,4 +2,3 @@
 ---
 This link is [page 1](/)
 
-contact info
