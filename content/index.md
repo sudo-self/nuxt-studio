@@ -2,4 +2,6 @@
 ---
 This is a link to [Page 2](/about)
 
+This is a link to [Page 3](/info)
+
 ![eeeeee.png](/eeeeee.png)
