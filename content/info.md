@@ -2,6 +2,6 @@
 ---
 This link is [page 1](/)
 
-This is a link to [Page 2](/about)
+This link is [Page 2](/about)
 
 <b>.com/</b>Info
