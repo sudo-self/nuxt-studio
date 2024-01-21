@@ -3,3 +3,5 @@
 This link is [page 1](/)
 
 This is a link to [Page 3](/info)
+
+<b>example.com/</b>about
