@@ -4,6 +4,6 @@ This is a link to [Page 2](/about)
 
 This is a link to [Page 3](/info)
 
-<b>example.com/</b>
+<b>.com/</b>index
 
 ![eeeeee.png](/eeeeee.png)
